@@ -7,9 +7,9 @@ projects to find the one that suits your exact needs.
 
 Plugins which can be used with [ViaProxy](https://github.com/ViaVersion/ViaProxy) to enhance the experience of the players.
 
-|         | [Multi Launch](https://github.com/ViaVersionAddons/ViaProxyMultiLaunch) | [No Local Connections](https://github.com/ViaVersionAddons/NoLocalConnections) | [RakNet Providers](https://github.com/ViaVersionAddons/ViaProxyRakNetProviders) | [Spark Integration](https://github.com/ViaVersionAddons/ViaProxySpark) |
-|---------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------|
-| Feature | Launch another jar file in combination with ViaProxy                    | An example ViaProxy plugin denying connections to local servers                | Adds multiple alternative RakNet backends                                       | ViaProxy plugin which implements the spark profiler                    |
+|         | [Multi Launch](https://github.com/ViaVersionAddons/ViaProxyMultiLaunch) | [No Local Connections](https://github.com/ViaVersionAddons/NoLocalConnections) | [RakNet Providers](https://github.com/ViaVersionAddons/ViaProxyRakNetProviders) | [Spark Integration](https://github.com/ViaVersionAddons/ViaProxySpark) | [Beta2Release Plugin](https://github.com/ViaVersionAddons/ViaProxyBeta2Release)
+|---------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------|
+| Feature | Launch another jar file in combination with ViaProxy                    | An example ViaProxy plugin denying connections to local servers                | Adds multiple alternative RakNet backends                                       | ViaProxy plugin which implements the spark profiler                    | ViaProxy Plugin which implements the Beta2Release Proxy |
 
 ## ViaVersion fixes
 
